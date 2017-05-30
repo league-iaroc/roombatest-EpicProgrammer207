@@ -18,7 +18,7 @@ public class Challenge extends Head {
 	 */
 	public void initialize() {
 		//write code here!
-		
+    
 		
 		
 	}
